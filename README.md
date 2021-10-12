@@ -1,5 +1,6 @@
 # MineBOT (doesn't actually mine this is just a custom implementation for personal use)
 * Still in development
+* Implemented using prismarineJS library
 
 ## How to use
 * I personally use this bot to avoid the minimal afk time. AFKing for too long is not recommened.
